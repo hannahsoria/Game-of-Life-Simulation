@@ -1,4 +1,4 @@
-# Game-of-Life-Simulation
+# Game of Life Simulation
 
 In this project I created a representation of the Game of Life, originally a game created by Conway. This game utilizes a 2D array that displays individual cells that are alive or dead (true or false) and updates to be alive, dead, or remain so according to the status of the cells that surround it. The final result is a grid display of cells that update every 250 milliseconds. To complete this project many classes, arrays, Graphics to draw the cells, and a 2D array are used to create first an individual cell then add cells to the 2D array and adjust their status, to finally create a visual representation.
 
