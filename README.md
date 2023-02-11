@@ -6,4 +6,4 @@ In this project I created a representation of the Game of Life, originally a gam
 
 <img width="204" alt="Screen Shot 2023-02-11 at 6 51 34 PM" src="https://user-images.githubusercontent.com/113323340/218285905-422f5ea4-982c-4330-9012-83e44f18c831.png">
 
-On the left is frame 31 and on the right is frame 32. The rules of the update for the cell status are: if the cell is dead and three neighboring cells are alive the cell will become alive, if the cell is alive and two or three neighboring cells exactly are alive the cell will remain alive, otherwise the cell will die. This can be seen above looking from the left image to the right image.
+In the first photo is frame 31 and in the second one the frame is 32. The rules of the update for the cell status are: if the cell is dead and three neighboring cells are alive the cell will become alive, if the cell is alive and two or three neighboring cells exactly are alive the cell will remain alive, otherwise the cell will die. This can be seen above looking from the left image to the right image.
